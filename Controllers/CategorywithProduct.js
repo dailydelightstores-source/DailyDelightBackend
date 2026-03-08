@@ -1,4 +1,4 @@
-import { CategorywithProductRoute } from "../Models/CategoryWithProduct.js";
+import { CategorywithProductRoute } from "../Models/CategorywithProduct.js";
 import asyncHandler from "../Utils/asyncHandler.js";
 
 const getCategorywithProduct = asyncHandler( async(req , res) =>{
